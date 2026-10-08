@@ -1,7 +1,5 @@
 ### Hi there 👋, Sefa Gümüş
 #### - Learn security and networking fundamentals - Apply what I learn by building small projects - Share my learning journey on GitHub
-![- Learn security and networking fundamentals - Apply what I learn by building small projects - Share my learning journey on GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 🎓 Bilgi Güvenliği Teknolojisi öğrencisiyim.
 🎓 I'm an Information Security Technology student.
 🔐 Siber güvenlik alanında kendimi geliştiriyor,
