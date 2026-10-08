@@ -1,9 +1,13 @@
 ### Hi there 👋, Sefa Gümüş
-#### - Learn security and networking fundamentals - Apply what I learn by building small projects - Share my learning journey on GitHub
-🎓 Bilgi Güvenliği Teknolojisi öğrencisiyim.
-🎓 I'm an Information Security Technology student.
+
+<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=lightgrey" align="right"/> </p>
+
+
+#### - Learn security and networking fundamentals - <br>Apply what I learn by building small projects - Share my learning journey on GitHub
+🎓 Bilgi Güvenliği Teknolojisi öğrencisiyim.<br>
+🎓 I'm an Information Security Technology student.<br>
 🔐 Siber güvenlik alanında kendimi geliştiriyor,
-temel bilgilerimi uygulamalı çalışmalarla güçlendirmeyi hedefliyorum.
+temel bilgilerimi uygulamalı çalışmalarla güçlendirmeyi hedefliyorum.<br>
 🔐 I'm developing my cybersecurity skills and aim to
 strengthen my foundations through hands-on practice.
 ## 💻 İlgi Alanlarım / My Interests
